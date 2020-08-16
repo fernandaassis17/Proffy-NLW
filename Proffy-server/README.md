@@ -1,3 +1,5 @@
+Algumas Informações base para um acompanhamento melhor do projeto.
+
 # Funcionalidades
 
 ## Conexões
@@ -10,6 +12,9 @@
 - Rota para criar uma aula
 - Rota para listar aulas
   - Filtrar por matéria, dia da semana, e horário
+
+
+## Instalação do Insomnia 
 
 //GET: Buscar ou listar uma informação
 //POST: Criar alguma informação nova
